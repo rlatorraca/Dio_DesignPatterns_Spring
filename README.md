@@ -44,12 +44,7 @@ Before starting this project, it is advisable to have:
     4. An IDE of your choice, such as Visual Studio Code, Eclipse, etc. (I used IntelliJ IDE).
 
 ----
-----
-----
-----
-----
-----
-----
+
 # Exploration des motifs de conception en pratique avec Java
 
 ### Aperçu
@@ -95,12 +90,6 @@ Avant de commencer ce projet, il est conseillé de disposer de :
     3. Un ordinateur avec le système d'exploitation de votre choix (Windows, Linux, Mac OS).
     4. Une IDE de votre choix, telle que Visual Studio Code, Eclipse, etc. (J'ai utilisé IntelliJ IDE).
 
-----
-----
-----
-----
-----
-----
 ----
 
 # Explorando Padrões de Projetos na Prática com Java
